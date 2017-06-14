@@ -1,5 +1,5 @@
-# GameTheory
-## Python implementations of algorithms for game theory
+# GameTheory - Python implementations of algorithms for game theory
+## Overview
 
 This implementation uses the Gambit NFG format for representation.
 
