@@ -20,4 +20,4 @@ for n in range(len(g.players)):
 		maxima.append(maximum)
 		maxima_index = maximum_index
 
-	print 'Minmax of player', n, 'is', min(maxima), '- strategy', maxima_index[maxima.index(min(maxima))]
+	print 'Minmax of player', n, 'is', min(maxima), '- strategy', maxima_index

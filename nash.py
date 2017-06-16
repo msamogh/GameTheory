@@ -29,4 +29,4 @@ equilibria = reduce(set.intersection,
 					set([tuple(x) for x in g.contingencies])
 					)
 
-print(list(equilibria))
+print 'Pure strategy Nash equlibria:', list(equilibria)
