@@ -1,5 +1,5 @@
 # GameTheory
-## Python implementations of algorithms in game theory
+Python implementations of algorithms in game theory
 
 ### Overview
 
