@@ -5,7 +5,7 @@ Python implementations of algorithms in game theory
 
 This implementation uses the Gambit NFG format for representation.
 
-**Currently implemented**
+**Algorithms currently implemented**
 1. Pure strategy Nash equilibrium for n-player games
 2. Dominant strategies for n-player games
 3. Minmax values
